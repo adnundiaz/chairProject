@@ -1,14 +1,25 @@
-doctype html
-html
+doctype true
+html(xmlns='http://www.w3.org/1999/xhtml', lang='es', xml:lang='es')
   head
-    title= "Cinema1"
-    style
-       include ../public/stylesheets/style.css
+    meta(http-equiv='Content-Type', content='text/html; charset=ISO-8859-1')
+    title Probando canvas
+    link(href='../puclic/stylesheets/style.css', rel='stylesheet', type='text/css')
+    script(type='text/javascript', language='javascript', src='../puclic/javascript/jquery.min.js')
+    script(type='text/javascript', language='javascript', src='../puclic/javascript/sala.js')
   body
-    #container
-      #header
-        h1 CINEMA 5000
-      #text
-        p Welcome to Cinema 5000. Please select the film you want to see today.
-        
-    
+    header
+      h1 FROZEN
+    nav#memoria
+      ul.butaca1
+        li  vacia
+      ul.butaca2
+        li  ocupada
+      ul.butaca3
+        li seleccionada
+    aside
+      input(type='button', value='Comprar entradas', onclick='')
+    canvas#miCanvas(width='400', height='400')
+      | Este texto se muestra para los navegadores no compatibles con canvas.
+      br
+      |       Por favor, utiliza Firefox, Chrome, Safari u Opera.
+
