@@ -1,14 +1,14 @@
 doctype html
 html
   head
-    title= "Cinema1"
-    style
-       include ../public/stylesheets/style.css
+    title Cinema 5000
+    meta(charset='UTF-8')
+    link(rel='stylesheet', type='text/css', href='stylesheets/style.css')
+    script(type='text/javascript', src='javascript/jquery-2.1.4.js')
+    script(type='text/javascript', src='javascript/script.js')
   body
     #container
-      #header
-        h1 CINEMA 5000
-      #text
-        p Welcome to Cinema 5000. Please select the film you want to see today.
-        
-    
+      #room
+      #link
+        a(href='#', onclick='$(".selected").addClass("confirmed")') Confirmar
+
