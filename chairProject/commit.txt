@@ -1,0 +1,72 @@
+commit 3510d3f388c36f5e404425f776920b507bf6e05f
+Author: raquel <raquel@debian.raquel>
+Date:   Sun Oct 4 12:30:53 2015 +0200
+
+    principio
+
+commit 9edb15b7ee8100d8e9f2d50a6413c4a046cb2766
+Author: usuario <usuario@debian>
+Date:   Fri Oct 2 11:05:48 2015 +0200
+
+    Final
+
+commit d6335a6926dbb1c0d11cbc7f410c321bed4037ba
+Author: usuario <usuario@debian>
+Date:   Fri Oct 2 10:48:04 2015 +0200
+
+    Correct
+
+commit 0d3608a8be73112afdbd95932b751b1383d4e3c1
+Author: usuario <usuario@debian>
+Date:   Fri Oct 2 10:44:39 2015 +0200
+
+    Correct way
+
+commit 5962c87497b49c8c05c594fd0ca1445817f732ab
+Author: usuario <usuario@debian>
+Date:   Fri Oct 2 10:37:51 2015 +0200
+
+    MVC directory
+
+commit 613ebd066e5ed8b4ef8a327f518b3fe17f23b1f8
+Author: Adrian <adrian@Adrian>
+Date:   Wed Sep 30 20:28:56 2015 +0200
+
+    starting project
+
+commit f5922e909d61d6a4d23de08b1e27cdfbf859eb7b
+Merge: 88d874f d74b43f
+Author: Adrian <adrian@Adrian>
+Date:   Tue Sep 29 13:43:36 2015 +0200
+
+    Project start
+
+commit 88d874f5b3a911bb288b60ebdac79d52d316f99c
+Author: Adrian <adrian@Adrian>
+Date:   Tue Sep 29 13:42:48 2015 +0200
+
+    Project start
+
+commit d74b43fe32118050a04f7b6137c193a4294a67ba
+Author: raquel <raquel@debian.raquel>
+Date:   Tue Sep 29 13:38:30 2015 +0200
+
+    toca el piano
+
+commit e78804cb73c99610897b865333e4f570a3920397
+Author: Adrian <adrian@Adrian>
+Date:   Tue Sep 29 13:26:34 2015 +0200
+
+    prueba1
+
+commit 5d71df3f70414b3d22e8ed654bda8c3f0f2a126d
+Author: adnundiaz <adnundiaz@gmail.com>
+Date:   Tue Sep 29 13:06:32 2015 +0200
+
+    Update README.md
+
+commit 632d0285c8e4ef8ddac24e6f31810e5500acd39b
+Author: adnundiaz <adnundiaz@gmail.com>
+Date:   Tue Sep 29 13:00:19 2015 +0200
+
+    Initial commit
